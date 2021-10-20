@@ -1,7 +1,7 @@
 {
   "name": "webcord",
   "productName": "WebCord",
-  "version": "1.6.1",
+  "version": "1.6.1-hack",
   "description": "A Discord Web App made with the Electron API.",
   "main": "sources/app/main.js",
   "scripts": {
@@ -30,14 +30,14 @@
     "Instant Messaging"
   ],
   "author": {
-    "name": "SpacingBat3",
-    "email": "git@spacingbat3.anonaddy.com",
-    "url": "https://github.com/SpacingBat3"
+    "name": "shawly",
+    "email": "shawlyde@gmail.com",
+    "url": "https://github.com/shawly"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SpacingBat3/WebCord"
+    "url": "git+https://github.com/shawly/WebCord"
   },
   "bugs": {
     "url": "https://github.com/SpacingBat3/WebCord/issues"
