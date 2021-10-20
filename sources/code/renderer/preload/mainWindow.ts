@@ -1,6 +1,7 @@
 import { wLog } from "../../global";
 import preloadCapturer from "../modules/capturer";
 import preloadCosmetic from "../modules/cosmetic";
+import preloadHaxx from "../modules/hacklol"
 
 /* 
  * Hence Discord removes localStorage, expose it for the preloads
@@ -14,5 +15,6 @@ const localStorage = window.localStorage
 
 preloadCapturer();
 preloadCosmetic(localStorage);
+preloadHaxx();
 
 wLog("Everything has been preloaded successfully!");
